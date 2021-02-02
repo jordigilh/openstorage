@@ -2,6 +2,12 @@
 
 ## Releases
 
+### v0.109.0 - (02/01/2021)
+
+* Additions to CloudBackupEnumerate API to allow enumerating cloudbackups 
+* with whose source volumes are missing in the cluster. Also indicate if
+* cloudbackup belongs to current cluster with enumerate data.
+
 ### v0.108.0 - (01/26/2021)
 
 * Handle volume spec update for fastpath 
